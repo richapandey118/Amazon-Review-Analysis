@@ -1,0 +1,51 @@
+ReviewID,ProductID,UserID,Rating,ReviewText,ReviewDate
+R001,B07QWE9876,U1002,,"Great product, highly recommend!",2024-01-01
+R002,B08LMN4321,U1001,0,Very useful and handy. ### @@@,2024-01-02
+R003,B08LMN4321,U2001,1,Would not buy again.,2024-01-03
+R004,B07QWE9876,U2002,1,"Average quality, expected better. ### @@@",2025/99/12
+R005,B08LMN4321,U2001,3,,2024-01-05
+R006,B07QWE9876,U1002,2,Not worth the price. ### !!!,
+R007,B08LMN4321,U2001,4,"Great product, highly recommend! ### ???",2024-01-07
+R008,B07ABC1234,U1001,2,Exceeded my expectations!,2024-01-08
+R009,B07QWE9876,U2002,3,Would not buy again.,
+R010,B07ABC1234,U2003,5,"Terrible, broke within a week.",2024-01-10
+R011,B08123POIU,U1002,3,,2024-01-11
+R012,B07ABC1234,U2002,4,"Terrible, broke within a week. ### 123",
+R013,B08LMN4321,U2001,5,Good value for money.,2024-01-13
+R014,B09XYZ5678,U2003,5,,2024-01-14
+R015,B07ABC1234,U1003,3,"Great product, highly recommend!",2024-01-15
+R016,B07ABC1234,U2002,4,Would not buy again.,2024-01-16
+R017,B07ABC1234,U1003,5,"Terrible, broke within a week.",2024-01-17
+R018,B09XYZ5678,U1005,NaN,Not worth the price.,2024-01-18
+R019,B09XYZ5678,U2003,3,Not worth the price.,
+R020,B07ABC1234,U2003,4,"Fast delivery, satisfied with the purchase.",2024-01-20
+R021,B08123POIU,U2002,3,"Terrible, broke within a week.",2024-01-21
+R022,B09XYZ5678,U1005,3,Not worth the price.,2024-01-22
+R023,B09XYZ5678,U2001,3,Exceeded my expectations!,2024-01-23
+R024,B09XYZ5678,U1004,2,"Great product, highly recommend!",2024-01-24
+R025,B07QWE9876,U1002,1,"Average quality, expected better.",2024-01-25
+R026,B07ABC1234,U1005,2,"Average quality, expected better.",2024-01-26
+R027,B08123POIU,U2003,NaN,Exceeded my expectations! ### @@@,2024-01-27
+R028,B09XYZ5678,U1004,1,Would not buy again.,2024-01-28
+R029,B07QWE9876,U2003,5,Not worth the price.,2024-01-29
+R030,B08LMN4321,U2002,2,Excellent performance and good build.,2024-01-30
+R031,B08LMN4321,U2001,2,Not worth the price.,2024-01-31
+R032,B09XYZ5678,U1001,,Very useful and handy.,not_a_date
+R033,B08123POIU,U2003,4,"Fast delivery, satisfied with the purchase.",2024-02-02
+R034,B08123POIU,U2001,3,Exceeded my expectations!,2024-02-03
+R035,B07ABC1234,U1003,5,Exceeded my expectations!,2024-02-04
+R036,B09XYZ5678,U2003,5,Exceeded my expectations!,2024-02-05
+R037,B08LMN4321,U1004,5,Excellent performance and good build.,2024-02-06
+R038,B07ABC1234,U2001,3,Very useful and handy.,2024-02-07
+R039,B08123POIU,U1005,1,"Fast delivery, satisfied with the purchase.",2024-02-08
+R040,B07ABC1234,U2001,2,"Terrible, broke within a week.",2024-02-09
+R041,B08LMN4321,U1005,3,,
+R042,B08123POIU,U1005,five,Would not buy again.,
+R043,B07QWE9876,U1001,3,Exceeded my expectations!,32-13-2025
+R044,B07QWE9876,U1004,2,"Fast delivery, satisfied with the purchase. ### @@@",
+R045,B09XYZ5678,U1002,3,Would not buy again.,2024-02-14
+R046,B07ABC1234,U1004,6,Exceeded my expectations!,2024-02-15
+R047,B08123POIU,U2002,5,,2024-02-16
+R048,B09XYZ5678,U2003,2,"Great product, highly recommend!",2024-02-17
+R049,B07ABC1234,U1004,3,Exceeded my expectations!,2024-02-18
+R050,B08LMN4321,U2003,1,Not worth the price.,2024-02-19
