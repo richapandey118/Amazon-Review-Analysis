@@ -1,4 +1,4 @@
-# 📊 Amazon Review Analysis  
+#  Amazon Review Analysis 📊 
 
 This project focuses on analyzing Amazon product reviews to understand customer sentiments and trends using Python.  
 It was implemented on **Google Colab** and uploaded here as a part of my Data Analysis project.  
@@ -14,17 +14,14 @@ The project involves:
 
 
 ##  Repository Structure  
-Amazon-Review-Analysis/
-│
-├── Amazon_Review_Analysis.ipynb # Main Jupyter/Colab notebook
-├── data/ # Contains dataset (CSV file)
-│ └── amazon_reviews.csv
-├── requirements.txt # Python libraries required
-└── README.md # Project documentation
+### Amazon-Review-Analysis
+- Amazon_Review_Analysis.ipynb # Main Colab notebook
+- Data # Contains dataset (amazon_reviews.csv file)
+- README.md # Project documentation
 
 
 ##  Requirements  
-import the required libraries before running the notebook:  
+Import the required libraries before running the notebook:  
 
 - pandas
 - numpy
@@ -54,6 +51,6 @@ import the required libraries before running the notebook:
 
 ##  Acknowledgements
 
-This project was created as part of my Project in Data Science & Machine Learning.
-Special thanks to open-source libraries and the dataset contributors.
+This project was created as part of OUR Project in Data Science.
+Special thanks to open-source libraries, the dataset contributors and my IBM mentor Naresh Kumar Sir.
 
